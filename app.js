@@ -4,6 +4,7 @@ const displayedNums = document.querySelector(".display");
 
 /*-------------------------------- Variables --------------------------------*/
 let calculate = "";
+
 /*------------------------ Cached Element References ------------------------*/
 const selectedNums = document.createElement("p");
 
